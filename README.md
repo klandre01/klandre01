@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Karen Andre and I'm a third year student at MIT! I'm pursuing a Bachelor's Degree in Computation and Cognition (Course 6-9). I'm currently interested in working in machine learning and/or the intersection of health and technology.
-![KA_headshot1](https://github.com/klandre01/klandre01/assets/53194023/31d39f4c-3e50-47f8-92e6-e164e450ac1b | height = 200px)
+<img src="https://github.com/klandre01/klandre01/assets/53194023/31d39f4c-3e50-47f8-92e6-e164e450ac1b" height=400px alt="Karen Andre headshot">
