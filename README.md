@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="100%" alt="Karen Andre Header" src="https://github.com/klandre01/klandre01/assets/53194023/7a2c7772-b0b7-46e6-8328-a156bdf44319">
+<p style="font-size: 5;">Credits to [M0nica](https://github.com/m0nica#hi-im-monica--) on Github for the header idea!</p>
+<hr>
 
-<img src="https://github.com/klandre01/klandre01/assets/53194023/31d39f4c-3e50-47f8-92e6-e164e450ac1b" align="center" height=300px alt="Karen Andre headshot">
-<br>
-My name is Karen Andre and I'm a third year student at MIT! I'm pursuing a Bachelor's Degree in Computation and Cognition (Course 6-9). I'm currently interested in working in machine learning and/or the intersection of health and technology.
+Hello! My name is Karen Andre and I'm a third year student at MIT! I'm pursuing a Bachelor's Degree in Computation and Cognition (Course 6-9). I'm currently interested in working in machine learning and/or the intersection of health and technology.
 <br>
 <br>
 <b>Relevant Courses: </b> Data Structures and Algorithms (Fall 2022) | Fundamentals of Programming (Spring 2023) | Computational Science and Engineering (Spring 2022) | Linear Algebra (Spring 2023)
+
+
 
 <!--
 # Coursework 📚
