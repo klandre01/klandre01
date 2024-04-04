@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Hello! My name is Karen Andre and I'm a third year student at MIT! I'm pursuing a Bachelor's Degree in Computation and Cognition (Course 6-9). I'm currently interested in working in machine learning and/or the intersection of health and technology.
 <br>
 <br>
-<b>Relevant Courses: </b> Data Structures and Algorithms (Fall 2022) | Fundamentals of Programming (Spring 2023) | Computational Science and Engineering (Spring 2022) | Linear Algebra (Spring 2023)
+<b>Relevant Courses: </b> Data Structures and Algorithms (Fall 2022) | Fundamentals of Programming (Spring 2023) | Computational Science and Engineering (Spring 2022) | Linear Algebra (Spring 2023) | Introduction to Machine Learning (Fall 2023)
 
 
 
